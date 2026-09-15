@@ -180,12 +180,6 @@ Events are appended to `doorbell_log.json` on Pico flash:
 
 ---
 
-## 🤝 Part of DevNode Daily Showcase
-
-This project is part of the **[sreconics/sreconics](https://github.com/SRECONICS/SRECONICS/issues?q=label%3Ashowcase)** daily project rotation — one embedded/FPGA project published every day.
-
----
-
 <div align="center">
 
 Made with ❤️ by [DevNode Technologies](https://github.com/SRECONICS)
